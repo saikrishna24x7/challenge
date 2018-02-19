@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{13165D23-D595-4D12-A007-26A906DCF3D4}|">
+  <MonoDevelop.Ide.ItemProperties.CodingChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingChallenge Status">
+    <Files>
+      <File FileName="CodingChallenge Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
